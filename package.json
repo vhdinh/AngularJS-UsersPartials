@@ -1,0 +1,24 @@
+{
+  "name": "Assign5-UsersPartials",
+  "version": "1.0.0",
+  "description": "",
+  "main": "angular.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vhdinh/AngularJS-UsersPartials.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vhdinh/AngularJS-UsersPartials/issues"
+  },
+  "homepage": "https://github.com/vhdinh/AngularJS-UsersPartials#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
